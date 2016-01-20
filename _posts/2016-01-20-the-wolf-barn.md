@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Don't mess with the woolies."
-datePublished: '2016-01-20T03:47:13.816Z'
-dateModified: '2016-01-20T03:46:28.271Z'
+datePublished: '2016-01-20T03:50:19.305Z'
+dateModified: '2016-01-20T03:50:16.388Z'
 title: The Wolf Barn
 author: []
+sourcePath: _posts/2016-01-20-the-wolf-barn.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-the-wolf-barn.md
-published: true
 url: the-wolf-barn/index.html
 _type: Article
 
@@ -33,6 +33,7 @@ But the wolves still howl at night.
 They howl because they're not allowed to run, wild, roughshod across the countryside.
 
 That land belongs to the sheep now ... and they're never going back.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ce6d286-ee3c-4545-930f-36fb280932b2.jpg)
 
-_Illustration by Christos Georghiou  _
+_Illustration by 
+Marco Antonio Hayashi Palazuelos    _
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45a5b788-762a-4549-a63b-fe49eb7e116f.jpg)
